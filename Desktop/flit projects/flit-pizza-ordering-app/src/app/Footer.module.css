@@ -1,0 +1,55 @@
+.container {
+  background: #fffaed;
+  padding: 1.5rem;
+  z-index: 1;
+}
+.ft_col h3 {
+  font-size: 1.2rem;
+  margin: 2rem 0;
+}
+
+.ft_col ul {
+  list-style: none;
+  padding: 0;
+}
+.ft_col h3,
+.ft_col ul li {
+  font-weight: bold;
+}
+
+.ft_col ul li {
+  margin-bottom: 1.3rem;
+  color: #acaaa5;
+}
+
+.facebook {
+  background-color: #3b579d;
+}
+.pinterest {
+  background-color: #cc2127;
+}
+
+.twitter {
+  background-color: #2caae1;
+}
+
+.instagram {
+  background-color: #dc4a38;
+}
+.primary_btn {
+  background-color: #fbb200;
+  border-radius: 20px;
+  padding: 0.5rem 1rem;
+  border: 0;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.social i {
+  padding: 0.6rem 0.9rem;
+  font-size: 1.4rem;
+  color: #fff;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,135 @@
+.hero {
+  margin-top: 12rem;
+}
+.hero_left {
+  padding-top: 8rem;
+}
+.hero_left h1 {
+  font-size: 4.2rem;
+  width: 80%;
+  font-weight: bold;
+}
+.hero_left p {
+  font-size: 2rem;
+}
+.hero_left h1 span {
+  color: #ff0000;
+}
+
+.yellow_banner {
+  background-color: #fbb21e;
+  border-radius: 100%;
+  position: relative;
+  -webkit-transform: translate(50%);
+  transform: translate(50%);
+  height: 710px;
+  margin-top: -90%;
+}
+.yellow_banner img {
+  position: relative;
+  top: 70%;
+}
+.top_pizza {
+  position: relative;
+  z-index: 20;
+  left: 2%;
+}
+.onion {
+  top: 50%;
+}
+
+.df_col {
+  display: flex;
+  padding: 6rem 1.5rem 0 3rem;
+}
+.daily_fresh {
+  width: 50%;
+}
+.daily_fresh h5 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+.daily_fresh p {
+  font-size: 1.2rem;
+  line-height: 2;
+  margin-top: 2rem;
+}
+.garlic {
+  padding: 8rem 1rem 0 3rem;
+}
+
+/* strength */
+.strength {
+  background-color: #fffaed;
+  margin-top: 6rem;
+  padding: 4rem 0 4rem 1.5rem;
+}
+
+.section_title h4 {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.section_title h6 {
+  font-size: 1.5rem;
+  color: #ff0000;
+}
+
+.strength_pizza img {
+  float: right;
+}
+
+.foods h4 {
+  font-size: 1rem;
+  margin: 1rem 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* testimonials */
+
+.testimonials {
+  margin-top: 4rem;
+}
+.testimonials img {
+  border-radius: 50%;
+}
+.clients {
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid #e4ded9;
+}
+.clients {
+  padding: 2rem;
+}
+.clients p {
+  font-size: 1.2rem;
+}
+
+/* pizzalist */
+.pizza_card {
+  margin-top: 3rem;
+}
+.popular {
+  padding-top: 5rem;
+}
+.cardbody {
+  padding: 1.5rem;
+  border-radius: 10px;
+  border: 1px solid #e4ded9;
+}
+.cardbody h5 {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.rating i {
+  color: #fbb200;
+}
+
+.primary_btn {
+  background: #fbb200;
+  color: #fff;
+  font-size: 1.1rem;
+  padding: 0.8rem 1.7rem;
+  border-radius: 30px;
+  border: 0;
+}
